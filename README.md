@@ -1,5 +1,5 @@
+![STABLE DIFFUSION DATA HEAD](https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/34f81e72-4a4d-4a92-9dee-d44e2a65fa8a)
 
-<img src="https://i.pinimg.com/originals/90/d9/7c/90d97c4223a91919735975edd7caf542.gif">
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">I am passionate about DATA Analytics, specifically Big DATA & Machine Learning (ML)</h3>
