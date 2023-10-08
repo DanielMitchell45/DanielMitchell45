@@ -1,16 +1,17 @@
 ![bigdata2-698](https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/637a0a44-281d-4248-b069-677c8ae3dfba)
 
-https://github.com/yusufsjustit/yusufsjustit/assets/125282550/9005adc8-3771-428e-84b5-dfb116ae45b9
 
-<h2 align="center">Hi 👋, I'm Daniel</h2>
-<h3 align="center">I am passionate about DATA Analytics, specifically Big DATA & Machine Learning (ML)</h3>
-<h3 align="center">I also love to create beautiful visuals with DATA as well</h3>
-<h3 align="center">🔭 I’m currently working on **My Portfolio** that I hope to complete in the near future.</h3>
+
+<h4 align="center">Hi 👋, I'm Daniel</h4>
+</p>
+<h4 align="center">I am passionate about DATA Analytics, specifically analysing raw DATA including Big DATA with Machine Learning if possible (ML)</h4>
+<h4 align="center"> I really then like creating beautiful and meaningful visuals with that DATA that has been analysed</h4>
+<h4 align="center">🔭 I’m currently working on **My Portfolio ** that I hope to have this fairly completed in the near future.</h4>
 
 <p></p>
-<div align="center"> <h3 align="center"> :nerd_face:	 Here are some DATA ANALYST TOOLS that I Love :nerd_face: </h3> </div>
+<div align="center"> <h4 align="center"> :nerd_face:	 Here are some DATA ANALYST TOOLS that I Love :nerd_face: </h4> </div>
 
-<div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div>
+
 
 <p align="center">
 
@@ -26,12 +27,12 @@ https://github.com/yusufsjustit/yusufsjustit/assets/125282550/9005adc8-3771-428e
 <a href="#" target="_blank"> <img src="https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/a6d0d501-f014-4057-aca9-426ef390fc46" alt="R" height="60"/> </a>
 
 
- <b>I have GOOD experience using all of these data analytical tools.<b>
+<h4 align="center">I do have GOOD experience using all of these data analytical tools.</h4>
 
 
 
 
-<b>I also have some experience using these data visualization tools such as:<b>
+<h4 align="center">I also have some experience using these data visualization tools such as:</h4>
 
 <p align="center">
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
@@ -60,20 +61,20 @@ https://github.com/yusufsjustit/yusufsjustit/assets/125282550/9005adc8-3771-428e
 
 - 🌱 I’m currently learning **Azure Databricks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DanielMitchell45?tab=repositories](https://github.com/DanielMitchell45?tab=repositories)
+- 👨‍💻 Some of my projects are available right here at [https://github.com/DanielMitchell45?tab=repositories](https://github.com/DanielMitchell45?tab=repositories)
 
 - 💬 Ask me about **Steinberg, Blue Iris, Power BI, Pandas, Excel, PL-SQL**
 
 - 📫 How to reach me **danielmitchell@gmx.com**
 
-- ⚡ Fun fact **I smile all the time.**
+- ⚡ Fun fact **I smile all the time. from within :) **
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://kaggle.com/danielmitchell" target="blank"><img align="center" src="![STABLE DIFFUSION DATA HEAD](https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/34f81e72-4a4d-4a92-9dee-d44e2a65fa8a)" /></a>
 </p>
 
-<h3 align="left">Some additional Languages and Tools:</h3>
+<h4 align="left">Some additional Languages and Tools that I have past experience with:</h4>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmitchell45&show_icons=true&locale=en&layout=compact" alt="danielmitchell45" /></p>
@@ -82,3 +83,4 @@ https://github.com/yusufsjustit/yusufsjustit/assets/125282550/9005adc8-3771-428e
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=danielmitchell45&label=Profile%20views&color=0e75b6&style=flat" alt="danielmitchell45" /> </p>
 
+<div align="center"> <h4 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h4> </div>
