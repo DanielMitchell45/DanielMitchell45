@@ -1,5 +1,4 @@
-![STABLE DIFFUSION DATA HEAD](https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/34f81e72-4a4d-4a92-9dee-d44e2a65fa8a)
-
+![bigdata2-698](https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/637a0a44-281d-4248-b069-677c8ae3dfba)
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">I am passionate about DATA Analytics, specifically Big DATA & Machine Learning (ML)</h3>
@@ -78,3 +77,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielmitchell45&show_icons=true&locale=en" alt="danielmitchell45" /></p>
 
+![STABLE DIFFUSION DATA HEAD](https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/34f81e72-4a4d-4a92-9dee-d44e2a65fa8a)
