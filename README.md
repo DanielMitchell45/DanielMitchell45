@@ -6,7 +6,7 @@
 </p>
 <h4 align="center">I am passionate about DATA Analytics, specifically analysing raw DATA including Big DATA with Machine Learning if possible (ML)</h4>
 <h4 align="center"> I really then like creating beautiful and meaningful visuals with that DATA that has been analysed</h4>
-<h4 align="center">🔭 I’m currently working on **My Portfolio ** that I hope to have this fairly completed in the near future.</h4>
+<h4 align="center">🔭 I’m currently working on **My Portfolio ** that I hope to have fairly completed in the near future.</h4>
 
 <p></p>
 <div align="center"> <h4 align="center"> :nerd_face:	 Here are some DATA ANALYST TOOLS that I Love :nerd_face: </h4> </div>
