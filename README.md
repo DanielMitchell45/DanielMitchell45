@@ -67,7 +67,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/danielmitchell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="danielmitchell" height="30" width="40" /></a>
+<a href="https://kaggle.com/danielmitchell" target="blank"><img align="center" src="![STABLE DIFFUSION DATA HEAD](https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/34f81e72-4a4d-4a92-9dee-d44e2a65fa8a)" /></a>
 </p>
 
 <h3 align="left">Some additional Languages and Tools:</h3>
@@ -77,4 +77,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielmitchell45&show_icons=true&locale=en" alt="danielmitchell45" /></p>
 
-![STABLE DIFFUSION DATA HEAD](https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/34f81e72-4a4d-4a92-9dee-d44e2a65fa8a)
+
