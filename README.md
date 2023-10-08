@@ -1,6 +1,6 @@
 ![bigdata2-698](https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/637a0a44-281d-4248-b069-677c8ae3dfba)
 
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h2 align="center">Hi 👋, I'm Daniel</h2>
 <h3 align="center">I am passionate about DATA Analytics, specifically Big DATA & Machine Learning (ML)</h3>
 
 
