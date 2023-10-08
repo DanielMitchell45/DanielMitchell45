@@ -1,30 +1,35 @@
 ![bigdata2-698](https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/637a0a44-281d-4248-b069-677c8ae3dfba)
 
+https://github.com/yusufsjustit/yusufsjustit/assets/125282550/9005adc8-3771-428e-84b5-dfb116ae45b9
+
 <h2 align="center">Hi 👋, I'm Daniel</h2>
 <h3 align="center">I am passionate about DATA Analytics, specifically Big DATA & Machine Learning (ML)</h3>
-<h3 align="center">I also love to create beautiful visuals with DATA as well (ML)</h3>
-<h3 align="center">🔭 I’m currently working on **My Portfolio** that I hope to complete in the near future. (ML)</h3>
-
-
-
+<h3 align="center">I also love to create beautiful visuals with DATA as well</h3>
+<h3 align="center">🔭 I’m currently working on **My Portfolio** that I hope to complete in the near future.</h3>
 
 <p></p>
 <div align="center"> <h3 align="center"> :nerd_face:	 Here are some DATA ANALYST TOOLS that I Love :nerd_face: </h3> </div>
 
-<b>I have GOOD experience using these data analysis tools.<b>
+<div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div>
+
 <p align="center">
- <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
-<a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
+
+
+
+<a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Microsoft Power BI" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="66"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png" alt="Azure" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/a6d0d501-f014-4057-aca9-426ef390fc46" alt="R" height="60"/> </a>
 
- 
+
+ <b>I have GOOD experience using all of these data analytical tools.<b>
 
 
-<div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div>
+
 
 <b>I also have some experience using these data visualization tools such as:<b>
 
