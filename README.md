@@ -28,7 +28,7 @@
 
 <div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div>
 
-<b>I have also some experience using these data visualization tools such as:<b>
+<b>I also have some experience using these data visualization tools such as:<b>
 
 <p align="center">
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
