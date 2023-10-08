@@ -2,16 +2,14 @@
 
 <h2 align="center">Hi 👋, I'm Daniel</h2>
 <h3 align="center">I am passionate about DATA Analytics, specifically Big DATA & Machine Learning (ML)</h3>
+<h3 align="center">I also love to create beautiful visuals with DATA as well (ML)</h3>
+<h3 align="center">🔭 I’m currently working on **My Portfolio** that I hope to complete in the near future. (ML)</h3>
 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=danielmitchell45&label=Profile%20views&color=0e75b6&style=flat" alt="danielmitchell45" /> </p>
-
-- 🔭 I’m currently working on **My Portfolio**
 
 
 
 <p></p>
-<div align="center"> <h3 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h3> </div>
+<div align="center"> <h3 align="center"> :nerd_face:	 Here are some DATA ANALYST TOOLS that I Love :nerd_face: </h3> </div>
 
 <b>I have GOOD experience using these data analysis tools.<b>
 <p align="center">
@@ -77,4 +75,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielmitchell45&show_icons=true&locale=en" alt="danielmitchell45" /></p>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=danielmitchell45&label=Profile%20views&color=0e75b6&style=flat" alt="danielmitchell45" /> </p>
 
