@@ -27,12 +27,12 @@
 <a href="#" target="_blank"> <img src="https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/a6d0d501-f014-4057-aca9-426ef390fc46" alt="R" height="60"/> </a>
 
 
-<h4 align="center">I do have GOOD experience using all of these data analytical tools.</h4>
+<h4 align="center">I do have recent GOOD experience using all of these data analytical tools above.</h4>
 
 
 
 
-<h4 align="center">I also have some experience using these data visualization tools such as:</h4>
+<h4 align="center">I also have some experience using these data visualization tools below as well:</h4>
 
 <p align="center">
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
