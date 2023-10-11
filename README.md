@@ -5,11 +5,11 @@
 <h4 align="center">Hi 👋, I'm Daniel</h4>
 </p>
 <h4 align="center">I am passionate about DATA Analytics, specifically analysing raw DATA including Big DATA with Machine Learning (ML)</h4>
-<h4 align="center"> I really then like creating beautiful and meaningful visuals with that DATA that has been analysed</h4>
+<h4 align="center"> I really like creating beautiful, meaningful-looking visuals with DATA that has been accurately analysed efficiently</h4>
 <h4 align="center">🔭 I’m currently working on **My Portfolio ** that I hope to have fairly completed in the near future.</h4>
 
 <p></p>
-<div align="center"> <h4 align="center"> :nerd_face:	 Here are some DATA ANALYST TOOLS that I Love :nerd_face: </h4> </div>
+<div align="center"> <h4 align="center"> :nerd_face:	 Here are some DATA ANALYST TOOLS that I Love using:nerd_face: </h4> </div>
 
 
 
@@ -27,12 +27,12 @@
 <a href="#" target="_blank"> <img src="https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/a6d0d501-f014-4057-aca9-426ef390fc46" alt="R" height="60"/> </a>
 
 
-<h4 align="center">I do have recent GOOD experience using all of these data analytical tools above.</h4>
+<h4 align="center">I have experience using all of these data analytical tools above and love building on this.</h4>
 
 
 
 
-<h4 align="center">I also have some experience using these data visualization tools below as well:</h4>
+<h4 align="center">I also have some experience using these data visualization tools below too:</h4>
 
 <p align="center">
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
@@ -59,13 +59,13 @@
 
 </p>
 
-- 🌱 I’m currently learning **Azure Databricks**
+- 🌱 I’m currently focused on learning **Azure Databricks** but I also constantly building up on the keys applications mentioned above.
 
 - 👨‍💻 Some of my projects are available right here at [https://github.com/DanielMitchell45?tab=repositories](https://github.com/DanielMitchell45?tab=repositories)
 
 - 💬 Ask me about **Steinberg, Blue Iris, Power BI, Pandas, Excel, PL-SQL**
 
-- 📫 How to reach me **danielmitchell@gmx.com**
+- 📫 You can email me here: **danielmitchell@gmx.com**
 
 - ⚡ Fun fact **I smile all the time. from within :) **
 
