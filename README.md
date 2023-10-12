@@ -27,7 +27,7 @@
 <a href="#" target="_blank"> <img src="https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/a6d0d501-f014-4057-aca9-426ef390fc46" alt="R" height="60"/> </a>
 
 
-<h4 align="center">I have experience using all of these data analytical tools above and love building on this.</h4>
+<h4 align="center">I am proficient using all of these data analytical tools above and love building on this.</h4>
 
 
 
