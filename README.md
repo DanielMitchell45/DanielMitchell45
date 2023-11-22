@@ -59,11 +59,13 @@
 
 </p>
 
-- 🌱 I’m currently focused on learning **Azure Databricks** but I also constantly building up on the keys applications mentioned above.
+- 🌱 I’m currently focused on learning **Azure Databricks** but I am also constantly building up on the keys applications mentioned above.
+
+- I have a lot of additionla skills that that are not highlighted here currently and this relates to several years of IT Support on all platforms including Linux.
 
 - 👨‍💻 Some of my projects are available right here at [https://github.com/DanielMitchell45?tab=repositories](https://github.com/DanielMitchell45?tab=repositories)
 
-- 💬 Ask me about **Steinberg, Blue Iris, Power BI, Pandas, Excel, PL-SQL**
+- 💬 Ask me about **Steinberg, Blue Iris, Microsoft Power BI and several other Microsoft Applications, especially Excel,  PL-SQL**
 
 - 📫 You can email me here: **danielmitchell@gmx.com**
 
