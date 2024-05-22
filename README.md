@@ -12,9 +12,7 @@ I am enthusiastic about the potential of data to drive innovation and create imp
 
 Recently, I have decided to channel my efforts exclusively into the field of data, focusing on projects and initiatives that leverage data to solve real-world problems.
 
-I am enthusiastic about the potential of data to drive innovation and create impactful solutions. My GitHub profile showcases some of the projects I've been working on, and I hope you find them as exciting as I do.
-
-Thank you again for your interest, and please .</h4>
+Thank you for taking the time to look at my profile. I kindly ask you to scroll all the way down to the bottom to see some of my recent projects, as well as a few older projects that I’d like to highlight..</h4>
 
 <p></p>
 <div align="center"> <h4 align="center"> :nerd_face:	 Here are some DATA ANALYST TOOLS that I Love using:nerd_face: </h4> </div>
