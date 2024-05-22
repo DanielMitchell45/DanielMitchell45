@@ -5,10 +5,15 @@
 <h4 align="center">Hi 👋, I'm Daniel</h4>
 </p>
 <h4 align="center">Thank you for taking the time to visit my GitHub profile. I wanted to share a bit more about my passion for data and my journey in this field.</h4>
-<h4 align="center">Data has always been a significant interest of mine, and I've been fascinated by its various applications throughout my life. Over the years, I have worked with data indirectly in various roles, gaining valuable experience and insights.</h4>
+<h4 align="center">Data has always been a significant interest of mine, and I've been fascinated by its various applications throughout my life. 
+  
+  Over the years, I have worked with data indirectly in various roles, gaining valuable experience and insights.</h4>
+
 <h4 align="center">🔭Recently, I have decided to channel my efforts exclusively into the field of data, focusing on projects and initiatives that leverage data to solve real-world problems.
 
-I am enthusiastic about the potential of data to drive innovation and create impactful solutions. My GitHub profile showcases some of the projects I've been working on, and I hope you find them as exciting as I do.
+I am enthusiastic about the potential of data to drive innovation and create impactful solutions. 
+
+My GitHub profile showcases some of the projects I've been working on, and I hope you find them as exciting as I do.
 
 Thank you for taking the time to look at my profile. I kindly ask you to scroll all the way down to the bottom to see some of my recent projects, as well as a few older projects that I’d like to highlight..</h4>
 
