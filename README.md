@@ -4,7 +4,7 @@
 
 <h4 align="center">Hi 👋, I'm Daniel</h4>
 </p>
-<h4 align="center">I am passionate about DATA Analytics, specifically analysing raw DATA including Big DATA with Machine Learning (ML)</h4>
+<h4 align="center">Thank you for taking the time to visit my GitHub profile. I wanted to share a bit more about my passion for data and my journey in this field.</h4>
 <h4 align="center"> I really like creating beautiful, meaningful-looking visuals with DATA that has been accurately analysed efficiently</h4>
 <h4 align="center">🔭 I’m currently working on **My Portfolio ** that I hope to have fairly completed in the near future.</h4>
 
