@@ -10,6 +10,10 @@
 
 I am enthusiastic about the potential of data to drive innovation and create impactful solutions. My GitHub profile showcases some of the projects I've been working on, and I hope you find them as exciting as I do.
 
+Recently, I have decided to channel my efforts exclusively into the field of data, focusing on projects and initiatives that leverage data to solve real-world problems.
+
+I am enthusiastic about the potential of data to drive innovation and create impactful solutions. My GitHub profile showcases some of the projects I've been working on, and I hope you find them as exciting as I do.
+
 Thank you again for your interest, and please .</h4>
 
 <p></p>
