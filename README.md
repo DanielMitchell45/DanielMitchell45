@@ -37,23 +37,7 @@ Thank you for taking the time to look at my profile. I kindly ask you to scroll 
 
 </p>
 
-<div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
-<b>Lets connect</b>
-<p align="center">
 
-<a href="https://www.linkedin.com/in/daniel-mitchell-8887b210/">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href=" https://public.tableau.com/app/profile/daniel.mitchell6578/viz/1stEffort/Dashboard1?publish=yes">
-  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
-</a>
-
-<a href="mailto:danielmitchell@gmx.com">  
-  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
-</a>
-
-</p>
 
 - 🌱 I’m currently focused on learning **Azure Databricks** but I am also constantly building up on the keys applications mentioned above.
 
@@ -82,3 +66,21 @@ Thank you for taking the time to look at my profile. I kindly ask you to scroll 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=danielmitchell45&label=Profile%20views&color=0e75b6&style=flat" alt="danielmitchell45" /> </p>
 
 <div align="center"> <h4 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h4> </div>
+
+<div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
+<b>Lets connect</b>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/daniel-mitchell-8887b210/">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href=" https://public.tableau.com/app/profile/daniel.mitchell6578/viz/1stEffort/Dashboard1?publish=yes">
+  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
+</a>
+
+<a href="mailto:danielmitchell@gmx.com">  
+  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
+</a>
+
+</p>
