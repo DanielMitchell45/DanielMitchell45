@@ -39,19 +39,6 @@ Thank you for taking the time to look at my profile. I kindly ask you to scroll 
 
 
 
-- 🌱 I’m currently focused on learning **Azure Databricks** but I am also constantly building up on the keys applications mentioned above.
-
-- I have a lot of additionla skills that that are not highlighted here currently and this relates to several years of IT Support on all platforms including Linux.
-
-- 👨‍💻 Some of my projects are available right here at [https://github.com/DanielMitchell45?tab=repositories](https://github.com/DanielMitchell45?tab=repositories)
-
-- 💬 Ask me about **Steinberg, Blue Iris, Microsoft Power BI and several other Microsoft Applications, especially Excel,  PL-SQL**
-
-- 📫 You can email me here: **danielmitchell@gmx.com**
-
-- ⚡ Fun fact **I smile all the time. from within :) **
-
-<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://kaggle.com/danielmitchell" target="blank"><img align="center" src="![STABLE DIFFUSION DATA HEAD](https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/34f81e72-4a4d-4a92-9dee-d44e2a65fa8a)" /></a>
 </p>
