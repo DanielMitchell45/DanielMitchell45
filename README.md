@@ -1,7 +1,5 @@
 ![bigdata2-698](https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/637a0a44-281d-4248-b069-677c8ae3dfba)
 
-
-
 <h4 align="center">Hi 👋, I'm Daniel</h4>
 </p>
 <h4 align="center">Thank you for taking the time to visit my GitHub profile. I wanted to share a bit more about my passion for data and my journey in this field.</h4>
@@ -20,11 +18,7 @@ Thank you for taking the time to look at my profile. I kindly ask you to scroll 
 <p></p>
 <div align="center"> <h4 align="center"> :nerd_face:	 Here are some DATA ANALYST TOOLS that I Love using:nerd_face: </h4> </div>
 
-
-
 <p align="center">
-
-
 
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Microsoft Power BI" height="60"/> </a>
@@ -35,13 +29,6 @@ Thank you for taking the time to look at my profile. I kindly ask you to scroll 
 <a href="#" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://github.com/DanielMitchell45/DanielMitchell45/assets/65592585/a6d0d501-f014-4057-aca9-426ef390fc46" alt="R" height="60"/> </a>
 
-
-<h4 align="center">I am proficient using all of these data analytical tools above and love building on this.</h4>
-
-
-
-
-<h4 align="center">I also have some experience using these data visualization tools below too:</h4>
 
 <p align="center">
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
